@@ -8,6 +8,6 @@ int Main(string[] args){
     dorka funkcio
 
 
-
+    hamburger
     return 0;
 }
