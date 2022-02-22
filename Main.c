@@ -5,7 +5,7 @@ int Main(string[] args){
     extra 
     funkcio
 
-
+    dorka funkcio
 
 
 
