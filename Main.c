@@ -3,7 +3,9 @@ int Main(string[] args){
     hotfix
     hotfix
     extra 
+
     funkcio piros
+
 
     dorka funkcio
 
